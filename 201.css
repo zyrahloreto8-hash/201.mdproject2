@@ -106,7 +106,7 @@ header {
 .requirements {
 	width: 250px;
 	height: 755px;
-	background: #85a3c2 url('bg-requirements.gif');
+	background: #85a3c2 url('./bg-requirements.gif');
 	margin-top: 0px;
 	position: absolute;
 	top: 580px;
